@@ -1,0 +1,23 @@
+{
+    "sever_210":{
+        "join_channel":"1023628825743073452",
+        "leave_channel":"1023628825743073452",
+        "statistics_channel":"1023628988377210991",
+        "bot_interval_load_channel":"1023632576788824064",
+        "voice_channel":"1023753514796716052",
+        "pic_channel":"1033769735655014421",
+
+        "keyword":[-1,"幹","靠北","哭啊"],
+        "return_word":[-1,"幹三小","靠北三小 你爸死了哦","乖別哭 越哭越像豬"]
+    },
+
+    "sever_107":{
+        "join_channel":"964867325675339841",
+        "leave_channel":"964867325675339841",
+        "statistics_channel":"1039922428903698432",
+        "pic_channel":"964871627726790656"
+    },
+    "token":"MTAzMTA1MDQ5ODAwODE3NDYzMw.GSkm8J.zN3TtnwjOTzqRYWKx34HPXbQrhykvcnJyK7gSs",
+    "PHPSESSID":"58770492_0nN7Hsu3YFvdln5wjqkPLdye9DGLWN6x",
+    "icon_url_for_embed":"https://cdn.discordapp.com/attachments/1021848346211651695/1040299984219811920/FOLzq58aMAUKvc1.png"
+}
